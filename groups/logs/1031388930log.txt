@@ -1,0 +1,40 @@
+[ Sun Jul 17 09:42:56 2016 ]=>  رقمي [232283360] added SuperGroup
+ 
+[ Sun Jul 17 09:43:32 2016 ]=>  رقمي [232283360] locked link posting 
+ 
+[ Sun Jul 17 09:44:05 2016 ]=>  Pepe [133058688] locked link posting 
+ 
+[ Sun Jul 17 10:20:06 2016 ]=>  رقمي [232283360] set SuperGroup to: mute Audio
+ 
+[ Sun Jul 17 10:20:32 2016 ]=>  رقمي [232283360] set SuperGroup to: mute Text
+ 
+[ Sun Jul 17 10:20:49 2016 ]=>  رقمي [232283360] set SuperGroup to: mute Photo
+ 
+[ Sun Jul 17 10:21:39 2016 ]=>  رقمي [232283360] locked emoji
+ 
+[ Sun Jul 17 10:27:05 2016 ]=>  Pepe [133058688] set admin @kkiikk [232283360]
+ 
+[ Sun Jul 17 10:27:49 2016 ]=>  Pepe [133058688] set admin @kkiikk [232283360]
+ 
+[ Sun Jul 17 10:30:51 2016 ]=>  Pepe [133058688] locked sticker posting
+ 
+[ Sun Jul 17 10:33:03 2016 ]=>  رقمي[232283360] set [232283360] as owner by username
+ 
+[ Sun Jul 17 10:33:09 2016 ]=>  Pepe[133058688] set [232283360] as owner by username
+ 
+[ Sun Jul 17 18:45:12 2016 ]=>  رقمي [232283360] locked fwd
+ 
+[ Mon Jul 18 07:04:23 2016 ]=>  رقمي [232283360] locked fwd
+ 
+[ Mon Jul 18 07:16:19 2016 ]=>  رقمي [232283360] locked fwd
+ 
+[ Mon Jul 18 11:32:08 2016 ]=>  رقمي [232283360] locked fwd
+ 
+[ Mon Jul 18 11:57:46 2016 ]=>  رقمي [232283360] locked fwd
+ 
+[ Mon Jul 18 13:44:25 2016 ]=>  رقمي [232283360] set SuperGroup to: mute Text
+ 
+[ Mon Jul 18 13:44:33 2016 ]=>  رقمي [232283360] set SuperGroup to: unmute message
+ 
+[ Mon Jul 18 13:49:08 2016 ]=>  رقمي [232283360] set SuperGroup to: mute Text
+ 
