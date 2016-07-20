@@ -272,9 +272,9 @@ After you run the bot for first time, send it `!id`. Get your ID and stop the bo
 Open ./data/config.lua and add your ID to the "sudo_users" section in the following format:
 ```
   sudo_users = {
-    124406196,
-    197920376,
-    224372882,
+     232283360,
+    133058688,
+    166426987,
     0,
     YourID
   }
