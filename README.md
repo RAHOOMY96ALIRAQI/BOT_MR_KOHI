@@ -1,7 +1,15 @@
-# DevPoint 🔱
-Source Dev Point to make protection for groups by bots from spam and FLASHING 🔰
-# Team [DevPoint](https://telegram.me/DevPointTeam)
-# Update in source Dev Point ✅
+🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖
+🃏🔺 dev🔰الكروب تحت🔰 ارسل لمعرفة مصنع البوت
+🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖
+#Dev : https://telegram.me/joinchat/B-5QgD-MTEjbNrWUgWF85w🔰☠
+🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖
+#Dev : @R1M18❤️
+🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖
+#Dev_bot : @R1M18_BOT❤
+🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖
+#Dev_Channel : @KING_BOT96❤️
+🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖
+
 
 **I added ➕**
 
@@ -287,11 +295,21 @@ Create a realm using the `!createrealm` command.
 
 * * *
 
-# Support and development [@DevPointTeam](https://telegram.me/DevPointTeam) 🐾
+# Support and development [@king_bot96](https://telegram.me/king_bot96) 🐾
 
 # Special thanks to [@teleseed](https://telegram.me/teleseedCH) ❤️
 
 For managing on Telegram.
-Development [@TH3_GHOST](https://telegram.me/TH3_GHOST) ❤️
-Subscribe to Source channel [@DevPointTeam](https://telegram.me/DevPointTeam) 💢
+Development [@r1m8](https://telegram.me@r1m18) ❤️
+🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖
+🃏🔺 dev🔰الكروب تحت🔰 ارسل لمعرفة مصنع البوت
+🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖
+#Dev : https://telegram.me/joinchat/B-5QgD-MTEjbNrWUgWF85w🔰☠
+🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖
+#Dev : @R1M18❤️
+🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖
+#Dev_bot : @R1M18_BOT❤
+🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖
+#Dev_Channel : @KING_BOT96❤️
+🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖🔹➖🔸➖
 
